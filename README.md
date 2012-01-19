@@ -1,5 +1,7 @@
 # Replacing jQuery-mobile content
 
+See the [demo](http://daneroo.github.com/jquery-mobile-dynamic-templated).
+
 Replacing jQuery-mobile content, after initialization requires some care.
 As the pages need to be enhanced. So partially updating thir content requires
 enhancing som parts of the content (such as listviews) as is explained here in the jQuery mobile docs:
